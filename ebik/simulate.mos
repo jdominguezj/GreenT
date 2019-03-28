@@ -1,0 +1,17 @@
+// Load Modelica Standard Library (MSL).
+loadModel(Modelica); getErrorString();
+// Load the generated circuit model.
+loadFile("Test.mo"); getErrorString();
+// Simulate the model and generate the output as an csv file.
+buildModel(Test);getErrorString();
+for i in 1:20 loop
+  // We update the parameter e start value from 0.7 to "0.7 + i".
+  value := 0.7 + i;
+  // call the generated simulation code to produce a result file BouncingBall%i%_res.mat
+  system("./Test -override=e="+String(value)+" -r=Test" + String(i) + "_res.mat");
+  getErrorString();
+end for;
+
+
+
+simulate(Test, startTime=0.0, stopTime=1.0, outputFormat= "csv"); getErrorString();

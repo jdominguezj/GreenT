@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="strava.com Android" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2013-12-30T17:43:10Z</time>
+ </metadata>
+ <trk>
+  <name>Descente en traineau</name>
+  <trkseg>
+   <trkpt lat="45.2588240" lon="-72.3095990">
+    <ele>301.4</ele>
+    <time>2013-12-30T17:43:10Z</time>
+   </trkpt>
+   <trkpt lat="45.2588490" lon="-72.3095550">
+    <ele>301.4</ele>
+    <time>2013-12-30T17:43:15Z</time>
+   </trkpt>
+   <trkpt lat="45.2589340" lon="-72.3096900">
+    <ele>301.3</ele>
+    <time>2013-12-30T17:43:18Z</time>
+   </trkpt>
+   <trkpt lat="45.2589140" lon="-72.3098030">
+    <ele>301.3</ele>
+    <time>2013-12-30T17:43:30Z</time>
+   </trkpt>
+   <trkpt lat="45.2588860" lon="-72.3098060">
+    <ele>301.3</ele>
+    <time>2013-12-30T17:43:31Z</time>
+   </trkpt>
+   <trkpt lat="45.2588650" lon="-72.3098840">
+    <ele>301.3</ele>
+    <time>2013-12-30T17:43:33Z</time>
+   </trkpt>
+   <trkpt lat="45.2588590" lon="-72.3099630">
+    <ele>301.2</ele>
+    <time>2013-12-30T17:43:35Z</time>
+   </trkpt>
+   <trkpt lat="45.2588940" lon="-72.3100090">
+    <ele>301.2</ele>
+    <time>2013-12-30T17:43:38Z</time>
+   </trkpt>
+   <trkpt lat="45.2589160" lon="-72.3100390">
+    <ele>301.1</ele>
+    <time>2013-12-30T17:43:39Z</time>
+   </trkpt>
+   <trkpt lat="45.2588960" lon="-72.3100900">
+    <ele>301.1</ele>
+    <time>2013-12-30T17:43:40Z</time>
+   </trkpt>
+   <trkpt lat="45.2588760" lon="-72.3101150">
+    <ele>301.1</ele>
+    <time>2013-12-30T17:43:41Z</time>
+   </trkpt>
+   <trkpt lat="45.2588510" lon="-72.3101450">
+    <ele>301.1</ele>
+    <time>2013-12-30T17:43:43Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

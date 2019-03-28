@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="strava.com Android" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2015-06-10T03:05:30Z</time>
+ </metadata>
+ <trk>
+  <name>Vol de nuit</name>
+  <trkseg>
+   <trkpt lat="45.5097520" lon="-73.5716900">
+    <ele>44.2</ele>
+    <time>2015-06-10T03:05:30Z</time>
+   </trkpt>
+   <trkpt lat="45.5097110" lon="-73.5714930">
+    <ele>43.8</ele>
+    <time>2015-06-10T03:05:31Z</time>
+   </trkpt>
+   <trkpt lat="45.5097330" lon="-73.5715210">
+    <ele>43.8</ele>
+    <time>2015-06-10T03:05:32Z</time>
+   </trkpt>
+   <trkpt lat="45.5097010" lon="-73.5715160">
+    <ele>43.9</ele>
+    <time>2015-06-10T03:05:33Z</time>
+   </trkpt>
+   <trkpt lat="45.5097380" lon="-73.5715780">
+    <ele>44.0</ele>
+    <time>2015-06-10T03:05:34Z</time>
+   </trkpt>
+   <trkpt lat="45.5097720" lon="-73.5715860">
+    <ele>43.9</ele>
+    <time>2015-06-10T03:05:35Z</time>
+   </trkpt>
+   <trkpt lat="45.5098060" lon="-73.5716150">
+    <ele>44.0</ele>
+    <time>2015-06-10T03:05:39Z</time>
+   </trkpt>
+   <trkpt lat="45.5098420" lon="-73.5716330">
+    <ele>44.0</ele>
+    <time>2015-06-10T03:05:41Z</time>
+   </trkpt>
+   <trkpt lat="45.5657720" lon="-73.5942370">
+    <ele>52.9</ele>
+    <time>2015-06-10T03:50:13Z</time>
+   </trkpt>
+   <trkpt lat="45.5657330" lon="-73.5941590">
+    <ele>52.9</ele>
+    <time>2015-06-10T03:50:14Z</time>
+   </trkpt>
+   <trkpt lat="45.5657580" lon="-73.5941750">
+    <ele>52.9</ele>
+    <time>2015-06-10T03:50:20Z</time>
+   </trkpt>
+   <trkpt lat="45.5657770" lon="-73.5942030">
+    <ele>52.9</ele>
+    <time>2015-06-10T03:50:32Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
